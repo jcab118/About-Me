@@ -1,0 +1,24 @@
+#intro {
+    text-align: center;
+}
+body {
+    background-image: url(http://www.socwall.com/images/wallpapers/38505-1920x1200.jpg);
+    background-size: cover;
+    color: white;
+    border-left: 
+   }
+#img { background-image: url(img_0259.jpeg; background-repeat: no-repeat; width: 10px; height: 20px; }
+/* ----------- Non-Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+}
+
+/* ----------- Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) { 
+}
